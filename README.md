@@ -116,7 +116,7 @@
             <div id="channel-grid" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4"></div>
         </div>
     </section>
-    <script async="async" data-cfasync="false" src="https://pl30626303.effectivecpmnetwork.com/65ee02424b8b8124a9c62b6fce247047/invoke.js"></script>
+   <!-- <script async="async" data-cfasync="false" src="https://pl30626303.effectivecpmnetwork.com/65ee02424b8b8124a9c62b6fce247047/invoke.js"></script> -->
 <div id="container-65ee02424b8b8124a9c62b6fce247047"></div>
 
 
@@ -317,9 +317,7 @@
 
         const grid = document.getElementById('channel-grid');
         const player = videojs('pstu-player');
-        // আপনার অ্যাড নেটওয়ার্ক (Adsterra/ExoClick/Google) থেকে পাওয়া VAST URL এখানে দিন
-const vastAdUrl = 'https://www.effectivecpmnetwork.com/qtk3u671?key=0925d26c98d46bfc9419bc79a2c21b76';
-// আপনার VAST Tag URL
+       
 
 const imaOptions = {
     id: 'pstu-player',
