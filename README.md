@@ -6,9 +6,10 @@
     <!-- <script src="https://pl30626309.effectivecpmnetwork.com/da/26/f8/da26f89b67e3183359dce17bb5af4c89.js"></script> -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- 
     <script async custom-element="amp-auto-ads"
         src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
-    </script>
+    </script> -->
     <title>Kiron-Tech - সম্পূর্ণ ফ্রি লাইভ স্ট্রিমিং</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://vjs.zencdn.net/8.3.0/video-js.css" rel="stylesheet" />
